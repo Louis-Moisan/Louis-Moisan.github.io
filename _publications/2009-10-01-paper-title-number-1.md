@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Scaling migrations to communities: An empirical case of migration network in the Arctic"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2023-01-09
+venue: 'Frontiers in Ecology and Evolution'
+paperurl: 'https://www.frontiersin.org/articles/10.3389/fevo.2022.1077260/full'
+citation: 'Moisan, L., Gravel, D., Legagneux, P., Gauthier, G., Léandri-Breton, D. J., Somveille, M., Therrien, J. F., Lamarre, J. F. & Bêty, J. (2023). Scaling migrations to communities: An empirical case of migration network in the Arctic. Frontiers in Ecology and Evolution, 10, 1077260.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.frontiersin.org/articles/10.3389/fevo.2022.1077260/pdf?isPublishedV2=False)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Moisan, L., Gravel, D., Legagneux, P., Gauthier, G., Léandri-Breton, D. J., Somveille, M., Therrien, J. F., Lamarre, J. F. & Bêty, J. (2023). Scaling migrations to communities: An empirical case of migration network in the Arctic. Frontiers in Ecology and Evolution, 10, 1077260.
