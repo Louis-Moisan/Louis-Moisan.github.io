@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Louis Moisan"
-  avatar           : "profile.png"
+  avatar           : "face.png"
   bio              : "Animal migration - Arctic ecology - Network analysis"
   location         : "Rimouski, Québec, Canada"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/louis-moisan/"
   orcid            : "https://orcid.org/0000-0002-6424-6750"
   pinterest        :
   soundcloud       :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
