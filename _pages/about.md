@@ -19,7 +19,6 @@ Tout comme les oiseaux migrateurs, j’effectue des migrations entre mon bureau 
 Passionné par l’analyse de données complexes, je cherche à mieux comprendre la structure et le fonctionnement des écosystèmes à travers le globe. Motivé par les défis environnementaux actuels, je vise à proposer des solutions basées sur la science pour une gestion durable des milieux naturels.
 
 <div style="text-align: center;">
-  <img src="images/migration.jpg" alt="image" width="700" />
-  <p><i>Richard Lee (Unsplash)</i></p>
+  <img src="images/bylot_migratory_connections.png" alt="image" width="500" />
 </div>
 
